@@ -5,7 +5,9 @@
 
 int main()
 {
-    int scores[6] = { 100, 95, 31, 17, 5, 2 };
+    int num = 5;
+    int* num_ptr = &num;
+    return 0;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
